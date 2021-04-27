@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row id='[object Object]' class='rc.demo.Players'>
+    <name>Messi</name>
+    <nations>
+      <city>Rosario</city>
+      <country>Argentina</country>
+    </nations>
+    <teams>
+      <soccerTeam>Barca</soccerTeam>
+      <rating>94</rating>
+      <transfer>false</transfer>
+    </teams>
+  </row>
+  <row id='[object Object]' class='rc.demo.Players'>
+    <name>Ronaldo</name>
+    <nations>
+      <city>Funchal</city>
+      <country>Portugal</country>
+    </nations>
+    <teams>
+      <soccerTeam>Juventus</soccerTeam>
+      <rating>94</rating>
+      <transfer>true</transfer>
+    </teams>
+  </row>
+  <row id='[object Object]' class='rc.demo.Players'>
+    <name>Benzema</name>
+    <nations>
+      <city>Lyon</city>
+      <country>France</country>
+    </nations>
+    <teams>
+      <soccerTeam>Real_Madrid</soccerTeam>
+      <rating>88</rating>
+      <transfer>false</transfer>
+    </teams>
+  </row>
+  <row id='[object Object]' class='rc.demo.Players'>
+    <name>Isco</name>
+    <nations>
+      <city>Lyon</city>
+      <country>Spain</country>
+    </nations>
+    <teams>
+      <soccerTeam>Real_Madrid</soccerTeam>
+      <rating>86</rating>
+      <transfer>false</transfer>
+    </teams>
+  </row>
+</root>

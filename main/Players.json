@@ -1,0 +1,77 @@
+{
+"players":
+[
+  {
+    "_id": {
+      "$oid": "6001534e10e7b960822f3148"
+    },
+    "name": "Messi",
+    "nations": {
+      "city": "Rosario",
+      "country": "Argentina"
+    },
+    "teams": [
+      {
+        "soccerTeam": "Barca",
+        "rating": 94,
+        "transfer": false
+      }
+    ],
+    "_class": "rc.demo.Players"
+  },
+  {
+    "_id": {
+      "$oid": "6001534e10e7b960822f3149"
+    },
+    "name": "Ronaldo",
+    "nations": {
+      "city": "Funchal",
+      "country": "Portugal"
+    },
+    "teams": [
+      {
+        "soccerTeam": "Juventus",
+        "rating": 94,
+        "transfer": true
+      }
+    ],
+    "_class": "rc.demo.Players"
+  },
+  {
+    "_id": {
+      "$oid": "6001534e10e7b960822f314a"
+    },
+    "name": "Benzema",
+    "nations": {
+      "city": "Lyon",
+      "country": "France"
+    },
+    "teams": [
+      {
+        "soccerTeam": "Real_Madrid",
+        "rating": 88,
+        "transfer": false
+      }
+    ],
+    "_class": "rc.demo.Players"
+  },
+  {
+    "_id": {
+      "$oid": "6001534e10e7b960822f314b"
+    },
+    "name": "Isco",
+    "nations": {
+      "city": "Lyon",
+      "country": "Spain"
+    },
+    "teams": [
+      {
+        "soccerTeam": "Real_Madrid",
+        "rating": 86,
+        "transfer": false
+      }
+    ],
+    "_class": "rc.demo.Players"
+  }
+]
+}
